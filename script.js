@@ -1,0 +1,11 @@
+alert();
+console.log();
+console.log(dfkj);
+console.log(111);
+console.log(dfs);
+console.log(11
+);
+console.log(1);
+console.log(11);
+console.log(ddd);
+console.log(111);

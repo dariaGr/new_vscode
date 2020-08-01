@@ -1,0 +1,33 @@
+@import "_header";
+
+body{
+	font-size: 50px;
+	color: blue;
+	.div{
+		font-size: 50px;
+	}
+}
+.name {
+}
+.test {
+
+		&__new {
+			fjsdlfksjdlfk
+		}
+
+		&__new--active {
+			jakdsfjlsdkfj
+		}
+}
+.name {
+}
+.test {
+}
+.test__new {
+}
+.test__new--active {
+}
+
+.red{
+	color: red;
+}
